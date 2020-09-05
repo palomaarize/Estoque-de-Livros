@@ -1,0 +1,3 @@
+﻿Objetos singleton são os mesmos para todas as requisições.
+Objetos transitórios são sempre diferentes; uma nova instância é fornecida cada vez que o objeto é solicitado.
+Objetos com escopo são os mesmos em uma requisições, mas diferentes entre requisições diferentes.
